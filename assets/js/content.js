@@ -9,10 +9,7 @@ window.SITE = {
   links: {
     email: "ahmad.mws86@gmail.com",
     linkedin: "https://www.linkedin.com/in/ahmad-haj-mawas-a6065070/",
-    fiverr: [
-      { en: "Custom laser-cut products & 3D MDF assembly", ar: "تصميم منتجات ليزر مخصصة وتركيب 3D من MDF", url: "https://www.fiverr.com/s/50bk4kE" },
-      { en: "Logo / image to cut-ready DXF & SVG", ar: "تحويل شعار أو صورة لملف DXF/SVG جاهز للقص", url: "https://www.fiverr.com/s/0DEaLq2" }
-    ],
+    fiverr: [],   // gig links removed: only the Fiverr profile is shown
     upwork: "https://www.upwork.com/freelancers/~015e0b70703df283d3?mp_source=share",
     khamsat: "https://khamsat.com/user/cutreadystudio",
     mostaql: "https://mostaql.com/u/CutreadyStudio",
